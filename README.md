@@ -64,42 +64,42 @@ Setup Instructions
 How to clone the project.
 Dependencies Requried :
 Backend:
- "dependencies": {
-    "axios": "^1.7.8",
-    "bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.21.1",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.8.3",
-    "multer": "^1.4.5-lts.1",
-    "nodemailer": "^6.9.16"
-  }
+     "dependencies": {
+        "axios": "^1.7.8",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.8.3",
+        "multer": "^1.4.5-lts.1",
+        "nodemailer": "^6.9.16"
+      }
 
 Frontend:
-"dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.7.8",
-    "bootstrap": "^5.3.3",
-    "canvas-confetti": "^1.9.3",
-    "chart.js": "^4.4.6",
-    "dotenv": "^16.4.5",
-    "html2canvas": "^1.4.1",
-    "moment": "^2.30.1",
-    "playwright": "^1.49.0",
-    "react": "^18.3.1",
-    "react-bootstrap": "^2.10.6",
-    "react-chartjs-2": "^5.2.0",
-    "react-confetti": "^6.1.0",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^7.0.1",
-    "react-scripts": "5.0.1",
-    "uuid": "^11.0.3",
-    "web-vitals": "^2.1.4"
-  }
+    "dependencies": {
+        "@testing-library/jest-dom": "^5.17.0",
+        "@testing-library/react": "^13.4.0",
+        "@testing-library/user-event": "^13.5.0",
+        "axios": "^1.7.8",
+        "bootstrap": "^5.3.3",
+        "canvas-confetti": "^1.9.3",
+        "chart.js": "^4.4.6",
+        "dotenv": "^16.4.5",
+        "html2canvas": "^1.4.1",
+        "moment": "^2.30.1",
+        "playwright": "^1.49.0",
+        "react": "^18.3.1",
+        "react-bootstrap": "^2.10.6",
+        "react-chartjs-2": "^5.2.0",
+        "react-confetti": "^6.1.0",
+        "react-dom": "^18.3.1",
+        "react-router-dom": "^7.0.1",
+        "react-scripts": "5.0.1",
+        "uuid": "^11.0.3",
+        "web-vitals": "^2.1.4"
+      }
 
 
 Environment variable configuration (e.g., .env file setup for HuggingFace API key).
