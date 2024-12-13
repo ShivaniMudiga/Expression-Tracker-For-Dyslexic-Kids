@@ -1,4 +1,4 @@
-"# Expression-Tracker-For-Dyslexic-Kids" 
+
 Purpose of the Project
 Dyslexic children often face challenges in reading, writing, and understanding, requiring additional attention and support, especially during their formative years. It is crucial to provide them with learning environments and activities that are both suitable and comfortable to help them grasp concepts more effectively.
 
